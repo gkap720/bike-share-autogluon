@@ -25,6 +25,7 @@ I would likely spend more time on feature engineering and trying to pull more da
 ### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
 
 |model|	hyperparameter_tune_kwargs|	CAT_depth|	CAT_random_strength|	score|
+|---|---|---|---|---|
 |initial|	None|	NaN|	1.00|	1.79138|
 |add_features|	None|	NaN|	1.00|	0.67576|
 |hpo|	auto|	8.0|	1.25|	0.63597|
